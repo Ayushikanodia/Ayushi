@@ -80,7 +80,6 @@ class price():
         print("\t\t\t\t\tHere are the facilities: \n \t\t\t\t\tLaundary \n \t\t\t\t\t Cleaning \n\t\t\t\t\t AC\n \t\t\t\t\t WIFI\n \t\t\t\t\t FOOD   ")
 
 
-
 print("=======Welcome=======")
 print("Please enter your name")
 name=input()
@@ -102,4 +101,4 @@ if ch=='Y' or ch=='y':
         s.disp()
 else :
     print("Sorry!! No other Service available")
-
+print("you are done ")
